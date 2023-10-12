@@ -1,0 +1,46 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  text-decoration: none;
+  background-color: gray;
+  color: white;
+}
+body{
+  margin-left: 10px;
+}
+#desno{
+  text-decoration: none;
+  float: right;
+  background-color: green;
+}
+  body{
+    background-color: lightgray;
+  }
+  .tablica{
+    float: left;
+    width: 60%;
+  }
+  #child{
+    float:right;
+    width: 30%;
+  }

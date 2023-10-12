@@ -1,0 +1,63 @@
+body {
+  display: box;
+}
+
+.container {
+  margin-top: 10%;
+  text-align: center;
+  height: 200px;
+}
+
+button {
+  width: 23%;
+  height: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  text-decoration: none;
+  background-color: gray;
+  color: white;
+}
+
+#desno {
+  text-decoration: none;
+  float: right;
+  background-color: green;
+}
+
+img {
+  width: 60px;
+  height: 50px;
+}
+
+h1 {
+  display: inline;
+}
+
+.parent {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+
+.kontakt {
+  display: inline-block;
+  border: 1px solid red;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}

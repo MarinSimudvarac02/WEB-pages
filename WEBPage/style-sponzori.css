@@ -1,0 +1,94 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#more {
+  display: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  text-decoration: none;
+  background-color: gray;
+  color: white;
+}
+
+.kikioboje {
+  display: inline-block;
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+.kikidizajn {
+  float: left;
+  padding-right: 200px;
+}
+
+.kuca {
+  display: inline-block;
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+.nad {
+  float: left;
+  padding-right: 200px;
+}
+
+.opcina {
+  display: inline-block;
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+.jankovci {
+  float: left;
+  padding-right: 100px;
+}
+
+.elektros {
+  display: inline-block;
+  width: 100%;
+}
+
+.sinisa {
+  float: left;
+  padding-right: 220px;
+}
+
+#kzon {
+  width: 200px;
+  height: 200px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+body {
+  background-color: white;
+}
+
+#desno {
+  text-decoration: none;
+  float: right;
+  background-color: green;
+}
